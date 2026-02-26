@@ -15,8 +15,8 @@ Now trying to build at the intersection of AI, Sourcing & logistics.
 ### Active
 
 - 🎧 **[Pulse](https://github.com/everfacture/pulse-bpm-app)** — Real-time BPM detection. No tapping, no imports. Just listen. (PWA, Web Audio API)
-- 🏭 **Project Dubai** — 3D printing facility setup. Sourcing machines across UAE/China borders, building operations from zero.
-- 🐆 **[Whisper-Puma](https://github.com/everfacture/whisper-puma)** 
+- 🐆 **[Whisper-Puma](https://github.com/everfacture/whisper-puma)** - Whisper Puma is your local typing predator
+- 🏭 **Project Dubai** — 3D printing facility setup, building operations from zero. See if I can get Openclaw to run it.
 
 ### Coming Soon
 

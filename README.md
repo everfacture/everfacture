@@ -1,6 +1,7 @@
 # Hi, Im Ibby 👋
 
 📍 Surabaya ↔ Dubai ↔ Cardiff ↔  Hyderabad | 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ↔ 🇮🇳 | Prompt Engineer Noob
+
  _Figuring out how things fit together with code_
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)

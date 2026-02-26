@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 8+ years in China taught me that systems are just games with rules you can learn. 
-Now trying to build at the intersection of AI, Sourcing & logistics.
+
 ---
 
 ## 🚀 Projects

@@ -43,7 +43,7 @@
 
 ## 📝 Writing
 
-- **[Hustle & Headaches](https://everfacture.github.io/)**
+- **[Hustle & Headaches](https://everfacture.github.io/)** - A minimal blog
 
 ---
 

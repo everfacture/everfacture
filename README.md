@@ -1,6 +1,6 @@
 # Hi, Im Ibby 👋
 
-📍 Surabaya ↔ GCC ↔ Cardiff ↔  Hyderabad | 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ↔ 🇮🇳 | Prompt Engineer Noob
+📍 Surabaya ↔ GCC ↔ Cardiff ↔  Hyderabad | 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ↔ 🇮🇳 | Breaking things.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -28,21 +28,22 @@
 
 ## 🛠️ Tech Stack 
 
-- **thats for codex, antigravity and kimi to spec** - _I iterate on that_
+- **I usually find out after the third iteration**
 
 ---
 
 ## 🌍 Now
 
 - Living in Surabaya, Indonesia
+- Sourcing Products for a living
 - Learning Bahasa Indonesia via BIPA 2 + stubbornness + **Kata Kata app**
 - Building in public, pulling my hairout in private.
 
 ---
 
-## 📝 Writing & Speaking
+## 📝 Writing
 
-- **Coming soon** _maybe_
+- **[Hustle & Headaches](https://everfacture.github.io/)**
 
 ---
 
@@ -57,7 +58,6 @@
 ## 📫 Contact
 
 - GitHub: [@everfacture](https://github.com/everfacture)
-- Location: Surabaya, Indonesia
 
 ---
 

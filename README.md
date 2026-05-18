@@ -16,7 +16,7 @@
 
 - 🎧 **[Pulse](https://github.com/everfacture/pulse-bpm-app)** — Real-time BPM detection. No tapping, no imports. Just listen. (PWA, Web Audio API)
 - 🐆 **[Whisper-Puma](https://github.com/everfacture/whisper-puma)** - Whisper Puma is your local typing predator
-- 🗯️ **[SLAYDE.APP](https://slayde.app/)** — _Make it Pop_. Fun slides in minutes.
+- 🗯️ **[Slayde.app](https://slayde.app/)** — _Make it Pop_. Fun slides in minutes.
 
 ### Personal Use
 
@@ -49,6 +49,3 @@
 
 - GitHub: [@everfacture](https://github.com/everfacture)
 
----
-
-*"Learning in pain"*

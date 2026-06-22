@@ -10,6 +10,10 @@
 
 ---
 
+## Coding with Pi
+
+- π **[everPi](https://github.com/everfacture/everPi)** - Engineering-grade skill pack for the Pi coding agent: read-first, small-diff, verification-driven workflows.
+
 ## 🚀 Projects
 
 ### Active
@@ -23,7 +27,7 @@
 
 - **Kata Kata** - Bahasa Indonesian flash cards with a bit of masala
 - **Vyra Health** - A brutally honest health coach
-- **Hyperliquid and UK spread trading bots**
+- **Hyperliquid and UK spread bots**
 
 ---
 

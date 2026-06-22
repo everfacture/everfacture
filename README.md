@@ -14,16 +14,16 @@
 
 ### Active
 
+- 💼 **[Jobmatch](https://github.com/everfacture/jobmatch)** - Local-first job discovery, scoring, and Telegram digest pipeline. 
+- 🗯️ **[Slayde.app](https://slayde.app/)** — _Make it Pop_. Fun slides in minutes.
 - 🎧 **[Pulse](https://github.com/everfacture/pulse-bpm-app)** — Real-time BPM detection. No tapping, no imports. Just listen. (PWA, Web Audio API)
 - 🐆 **[Whisper-Puma](https://github.com/everfacture/whisper-puma)** - Whisper Puma is your local typing predator
-- 🗯️ **[Slayde.app](https://slayde.app/)** — _Make it Pop_. Fun slides in minutes.
 
 ### Personal Use
 
 - **Kata Kata** - Bahasa Indonesian flash cards with a bit of masala
 - **Vyra Health** - A brutally honest health coach
 - **Hyperliquid and UK spread trading bots**
-- **JobOps**
 
 ---
 
@@ -38,10 +38,6 @@
 ## 📝 Writing
 
 - **[Hustle & Headaches](https://everfacture.github.io/)** - A minimal blog
-
----
-
-- Privacy-first: no analytics, no tracking, no bullshit
 
 ---
 

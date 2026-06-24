@@ -10,10 +10,6 @@
 
 ---
 
-## Tool
-
-- π **[everPi](https://github.com/everfacture/everPi)** - Engineering-grade skill pack for the Pi coding agent: read-first, small-diff, verification-driven workflows.
-
 ## 🚀 Projects
 
 ### Active
@@ -22,6 +18,10 @@
 - 🗯️ **[Slayde.app](https://slayde.app/)** — _Make it Pop_. Fun slides in minutes.
 - 🎧 **[Pulse](https://github.com/everfacture/pulse-bpm-app)** — Real-time BPM detection. No tapping, no imports. Just listen. (PWA, Web Audio API)
 - 🐆 **[Whisper-Puma](https://github.com/everfacture/whisper-puma)** - Whisper Puma is your local typing predator
+
+## Tools
+
+- π **[everPi](https://github.com/everfacture/everPi)** - Engineering-grade skill pack for the Pi coding agent: read-first, small-diff, verification-driven workflows.
 
 ### Personal Use
 

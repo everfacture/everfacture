@@ -10,7 +10,7 @@
 
 ---
 
-## Coding with Pi
+## Tool
 
 - π **[everPi](https://github.com/everfacture/everPi)** - Engineering-grade skill pack for the Pi coding agent: read-first, small-diff, verification-driven workflows.
 
